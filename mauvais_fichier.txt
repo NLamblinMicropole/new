@@ -1,4 +1,5 @@
-je suis un bon fichier.
-je suis un fichier.
-je suis un mauvais fichier.
-je suis un très mauvais fichier.
+je suis un bon gars.
+je suis un gars.
+je suis un mauvais gars.
+je suis un très mauvais gars.
+je suis le pire gars.
