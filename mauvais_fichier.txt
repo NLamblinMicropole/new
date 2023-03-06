@@ -1,1 +1,6 @@
+je suis un bon fichier.
+je suis un fichier.
 je suis un mauvais fichier.
+je suis un très mauvais fichier.
+je suis un fichier pourri.
+
